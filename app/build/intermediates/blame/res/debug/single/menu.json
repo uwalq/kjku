@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map.xml",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home2_drawer.xml",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\src\\main\\res\\menu\\activity_home2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_map_drawer.xml",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\src\\main\\res\\menu\\activity_map_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Kajianku\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

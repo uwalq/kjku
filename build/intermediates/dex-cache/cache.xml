@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_1f1a5f9836fb0d83e21fa19704278eff77b22f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_5af5c888eaedb83d7c10a8c0baacaa6ffbe4bab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.2.1_e270af5fc1542ffc88742b2666cae861a20e3e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8d79a3eb154e1f1108e4dd8d87c4827db5b50337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.2.1_9721af484e71cdd948135a7fe1bfa0d5b0b83a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.2.1_04ff3fce7933168a98b5a6100e07a95274bf0c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.2.1_364347fd2f1c0828642ae3cd866207ef89e7d922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.2.1_d8e92d266dd00df228bb87c9113f871a7cc9afcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.2.1_0d388a6ee981257ef3c8e0609468b2127f5b4cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.2.1_a96a033320b4f8dcc335a54f1153e93c1164a9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.1_922be6391e64d4709afcb1a23b21253646d4e824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.2.1_3f42d992b38803492e3d662e6161a4101fbc6e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_1f6ce573933ab9918774fc6578cca8b248017036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.2.1_dae1317661cbf0aa5eb6485d908f7e322a12d009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.1_4ff034eef48496efdd90c7032b9232598e1149b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.1_144d626f1e727f09f86cc77cba7bcd2b2a48dfe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.2.1_cdf8a62524b85a9da6b172d0d42850c9b7905987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_afbce790975c539a3d2a601064b7b17d2cd2e4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.1_4ae483850b5376865b8e5ded4674ee9e97305043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.1_9d688accd744249e5b3a98cd14248f77dda186d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.1_4223e7be9d7ddba00503a0051919dffa45991de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_86fdd3e2a940a3ab4681ce5bebbb924ce0ed22d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.1_07164ab9cae671d2f864963dc7d93873845c48ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.1_7f07de7804a403610dce4486872818dab0c31ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.1_418f39e0039cc88eb8b574182fe69881fd01aa36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.2.1_e9df15130947bf3a3fd8cefe7b845ecab5c5c241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.1_35780cd997bac8bb085f107d09e0352e28434cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_b895ac220fc5b5c8ae700a48a0e4092666a2831e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.1_c975acab643512fbd750fdba55cf2467116a2563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.1_01124e5e610ecf0e765c57369f8c77afe4f6ab35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.2.1_6fd94bc9c5d88012f90743c7fd38b3a33b4494e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.1_e7d9bd80787cb40dc29a3cbac724cd6273d347f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.2.1_b183def7e20a9c8a65604f4da13e10f35ebbbda4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.2.1_8a985b6526a555a2276406b13871f10d53d5b19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.1_51d14ac6cfba2412533e48972c53efe42c882faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.1_3a254054408e90c64a79aa34da9a4ba78bf7a288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_ac04959f8631d4b87e95e74f81faa7ba2c2f6cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.1_e214bb9652f02350bc8aec27b073aff6320e0a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.1_28e6cb880f1fdc746d9ebf0ac3bb5b935d5d38a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.1_fe76020a817114cc1bfc528fc713b3f56e803eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.1_d0599ec92292a3c78c8343508e91acff4d17ecbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4a49b9b975c256917a29c40e2f60e9174104e15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.2.1_a1de90f1bb65bcdb855e40613f59a5514de9cb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.2.1_8b2c06e810d6265964f78e61702d8129ffa26d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_af3b35de5209f4e61232faf7b9e6b59ba3fc42b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.2.1_90561ec9d2b307c5bcabcb8812cb24479ce7ef93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_1160a0275cf2b1d7b12ed73f2ee71c4181ae1845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.2.1_c5aa521d12d3e70c6bee299d8229159725fa2cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_accff5684bb5aa7dd836a3f0041be83d707dae4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.1_d7e2a447ba9cddf2d05acc7857840682870667dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.1_4b250f52325d373e61a2b8f686694e402827edf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.2.1_9be5aee16e32ab46e41f6d49f73fffe4f80dc902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.1_08ebf10284e4d432105335a6f334255d253d0717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_8df948427ac650dd56be702d3fd8b4e857d8906c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.2.1_4083a4b9deedf344fc1fa3dc5ac8b3bf69af95ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.2.1_f510f44da846ed4aaa7452a50365a328c103c4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.1_2babc012af706bf977c3f18cbdd719425d687b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.1_4c526380ac8444195cdf0221ae47f30c1d71ee43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.2.1_22e6dcabdfa3a1d296160db43709e0bf7d981c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Kajianku\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.1_7c917ab2e4d2bd756399b74c5459dd40956e79e8.jar" />
+    </item>
+
+</items>
